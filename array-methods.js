@@ -48,3 +48,11 @@ const cities = ["Utrecht", "Maastricht", "Eindhoven"];
 cities.splice(1,0,'Amsterdam');
 console.log(cities);
 
+// Hi, I'd like you to be my study buddy. I'm learning the coding language Java and would like to get my knowledge level from novice to intermediate to start with.
+//
+// Could you quiz me by creating tasks, starting easy and slowly increasing difficulty? Assume my level is novice, but re-determine my knowledge level every 3 answers and base your questions on that level.
+// The task should be finishing code, declaring what a part of a code does or letting me bugfix a part of a code.
+// I don't want to write the same piece of code again, which is the main reason I'm specifically asking for the above criterea.
+//
+// Wait for my response. If the answer is good, we proceed to the next question. If the answer is wrong, please politely explain how I could do better. Wait for my response before proceeding to the next question, please.
+
